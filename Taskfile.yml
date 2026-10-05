@@ -4,7 +4,7 @@ silent: true
 
 vars:
   TYPST_FILENAME: src/main.typ
-  PDF_FILENAME: build/resume.pdf
+  PDF_FILENAME: /mnt/c/Users/somra/Documents/resume.pdf
 
 tasks:
   default:
